@@ -1,5 +1,5 @@
-# a program that convert one datat type to another
+# a program that convert one data type to another
 
-num = float(input("enter a number of your choice "))
+num = float(input("enter a number of your choice: "))
 print(type(num))
 print(type(num).__name__)

@@ -6,7 +6,7 @@ div = __import__("calc").div
 if __name__ == "__main__":
     num1 = float(input("Enter firstnumber"))
     num2 = float(input("Enter secondnumber"))
-    op == input("Enter Operator(+, -, *, /)")
+    op = input("Enter Operator(+, -, *, /, %): ")
 
 
     if op == "/":

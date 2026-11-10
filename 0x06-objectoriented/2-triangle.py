@@ -1,4 +1,4 @@
-# 
+# a program to calculate the area of a triangle 
 
 class Triangle:
     def __init__(self, height, breath):

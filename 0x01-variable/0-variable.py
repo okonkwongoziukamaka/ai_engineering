@@ -12,6 +12,7 @@ print(salary)
 print(is_married)
 print(weight)
 
+
 print(type(firstname))
 print(type(lastname))
 print(type(salary))
